@@ -42,3 +42,7 @@ By implementing the above solution approach, AtliQ hardware expects to achieve t
    * Revenue Growth: With the ability to access key insights, analyze profitability, and monitor performance effectively, AtliQ hardware anticipates achieving a revenue growth of at least 7% in the next quarter. The data-driven decision making facilitated by the Power BI dashboards contributes to identifying growth opportunities and implementing effective strategies.
 
 Overall, this solution approach leverages the power of SQL and Power BI to provide a robust data analysis and visualization solution, empowering AtliQ hardware to make informed decisions and drive revenue growth.
+
+
+
+You can view the final outcome of the dashboard by clicking [here](Sales_Insight.pbix).
