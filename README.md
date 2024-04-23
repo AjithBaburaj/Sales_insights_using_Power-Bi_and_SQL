@@ -21,12 +21,15 @@ Power BI's data transformation features, such as Power Query, were utilized to c
 
 ### * Dashboard Creation - Key Insights: 
 The first type of dashboard, "Key Insights," was created to provide an overview of the sales trend. This dashboard focused on presenting high-level metrics, such as total sales, top-selling products, sales by region, and sales by time period. Visualizations like charts, graphs, and KPIs were used to convey the key insights effectively.
+![Screenshot 1](Dashboard_screenshots/1.key_insights.jpg)
 
 ### * Dashboard Creation - Profit Analysis: 
 The second type of dashboard, "Profit Analysis," aimed to provide in-depth insights into the profitability of AtliQ hardware goods. This dashboard included visualizations and calculations related to profit margins, cost analysis, and product profitability. It allowed users to identify profitable products, assess cost effectiveness, and optimize pricing strategies.
+![Screenshot 2](Dashboard_screenshots/2.profit_analysis.jpg)
 
 ### * Dashboard Creation - Performance Insights: 
 The third type of dashboard, "Performance Insights," focused on analyzing the performance of AtliQ hardware goods. This dashboard provided visualizations and metrics related to sales performance, sales growth, customer segmentation, and market share. It enabled users to track performance trends, identify growth opportunities, and make data-driven decisions.
+![Screenshot 2](Dashboard_screenshots/3.performance_insight.jpg)
 
 Each dashboard was designed to be interactive, allowing users to filter and drill down into specific dimensions or time periods of interest.
 
