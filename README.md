@@ -1,7 +1,7 @@
 # Sales Insights Using PowerBI and SQL
 
 ## Problem Statement:
-AtliQ hardware, a brick and mortar business specializing in hardware goods, is facing challenges in understanding and analyzing its sales trend. The current lack of visibility into the sales data hinders the business's ability to make informed decisions and take proactive measures to drive growth. Without a comprehensive understanding of the sales trend, AtliQ hardware struggles to identify patterns, anticipate customer demand, optimize inventory, and tailor marketing strategies effectively. As a result, the business is unable to capitalize on potential growth opportunities and achieve its revenue goals. To overcome these obstacles, AtliQ hardware recognizes the need to implement a solution that provides a clear and insightful view of the sales trend, enabling data-driven decision-making and facilitating strategic actions to increase revenue and improve overall performance.
+AtliQ hardware, a store that sells hardware products, is having trouble understanding how their sales are going. Because they can't see the sales data clearly, they're finding it hard to make smart decisions and plan ahead to grow. They can't spot trends, predict what customers will want, manage their stock well, or plan marketing effectively. This means they're missing out on chances to grow and make more money. To fix this, AtliQ hardware knows they need a way to see their sales data clearly, so they can make better decisions and take actions to make more money and do better overall.
 
 ## Solution Approach:
 
