@@ -43,6 +43,6 @@ By implementing the above solution approach, AtliQ hardware expects to achieve t
 
 Overall, this solution approach leverages the power of SQL and Power BI to provide a robust data analysis and visualization solution, empowering AtliQ hardware to make informed decisions and drive revenue growth.
 
-
+![Screenshot 1](Dashboard_screenshots/1.key_insights.jpg)
 
 ## You can view the final outcome of the dashboard by clicking [here](Sales_Insight.pbix).
