@@ -45,4 +45,4 @@ Overall, this solution approach leverages the power of SQL and Power BI to provi
 
 
 
-# You can view the final outcome of the dashboard by clicking [here](Sales_Insight.pbix).
+## You can view the final outcome of the dashboard by clicking [here](Sales_Insight.pbix).
